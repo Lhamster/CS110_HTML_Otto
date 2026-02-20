@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>CS 110 Page</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Welcome to our first Git + GitHub activity!</h1>
+<p>Git and github are essential tools for any computational professional, even those only tangentially working with software.
+We're useing it right now to create a basic HTML file to explore and play with that information representation format.</p>
 
 </body>
 </html>
